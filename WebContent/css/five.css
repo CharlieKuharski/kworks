@@ -542,6 +542,7 @@ section h3.section-subheading {
 section#contact {
 	background-color: #f1c633;
 	text-align: center;
+	background-image: url(../img/contact/bg.png);
 }
 
 section#contact .section-heading {
